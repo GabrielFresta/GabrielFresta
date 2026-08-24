@@ -24,7 +24,7 @@
 ---
 
 ### 📌 Projetos em Destaque
-
+⚖️ JurisFlow: Sistema de gestão visual de processos jurídicos (Kanban) com persistência local, validação de formulários e boas práticas de segurança. [Ver ao vivo](https://gabrielfresta.github.io/jurisflow-app/)
 - 📸 **[Clone do Instagram](https://github.com/GabrielFresta/projeto-clone-instagram)**: Projeto desenvolvido em JS puro focado em manipulação do DOM, estilização e experiência do usuário.
 - 📋 **[Lista de Nomes](https://github.com/GabrielFresta/listas-de-nomes)**: Aplicação web para cadastro e listagem em tempo real utilizando localStorage para persistência de dados.
 
