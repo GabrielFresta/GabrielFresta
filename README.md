@@ -25,7 +25,7 @@
 
 ### 📌 Projetos em Destaque
 - 📊 **[Extrato Financeiro](https://github.com/GabrielFresta/extrato-app):** Aplicação para controle de finanças pessoais com gráficos e armazenamento local. [Ver ao vivo](https://extrato-app-gabriel3-abf3.vercel.app)
-- ⚖️ **[JurisFlow](https://github.com/GabrielFresta/jurisflow):** Sistema de gestão visual de processos jurídicos (Kanban) com persistência local e validação de formulários. [Ver ao vivo]([https://jurisflow.vercel.app](https://gabrielfresta.github.io/jurisflow-app/))
+- ⚖️ **[JurisFlow]([https://github.com/GabrielFresta/jurisflow](https://gabrielfresta.github.io/jurisflow-app/)):** Sistema de gestão visual de processos jurídicos (Kanban) com persistência local e validação de formulários. [Ver ao vivo]([https://jurisflow.vercel.app](https://gabrielfresta.github.io/jurisflow-app/))
 - 📸 **[Clone do Instagram](https://github.com/GabrielFresta/projeto-clone-instagram)**: Projeto desenvolvido em JS puro focado em manipulação do DOM, estilização e experiência do usuário.
 - 📋 **[Lista de Nomes](https://github.com/GabrielFresta/listas-de-nomes)**: Aplicação web para cadastro e listagem em tempo real utilizando localStorage para persistência de dados.
 
